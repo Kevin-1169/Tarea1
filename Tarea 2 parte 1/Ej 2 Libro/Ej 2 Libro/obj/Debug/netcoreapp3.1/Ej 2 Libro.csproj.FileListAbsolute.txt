@@ -1,0 +1,11 @@
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\bin\Debug\netcoreapp3.1\Ej 2 Libro.exe
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\bin\Debug\netcoreapp3.1\Ej 2 Libro.deps.json
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\bin\Debug\netcoreapp3.1\Ej 2 Libro.runtimeconfig.json
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\bin\Debug\netcoreapp3.1\Ej 2 Libro.runtimeconfig.dev.json
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\bin\Debug\netcoreapp3.1\Ej 2 Libro.dll
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\bin\Debug\netcoreapp3.1\Ej 2 Libro.pdb
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\obj\Debug\netcoreapp3.1\Ej 2 Libro.csprojAssemblyReference.cache
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\obj\Debug\netcoreapp3.1\Ej 2 Libro.AssemblyInfoInputs.cache
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\obj\Debug\netcoreapp3.1\Ej 2 Libro.AssemblyInfo.cs
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\obj\Debug\netcoreapp3.1\Ej 2 Libro.dll
+C:\Users\Tiffany\source\repos\Ej 2 Libro\Ej 2 Libro\obj\Debug\netcoreapp3.1\Ej 2 Libro.pdb
