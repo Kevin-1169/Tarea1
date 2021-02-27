@@ -1,0 +1,10 @@
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\bin\Debug\netcoreapp3.1\Ej 2 pag 110.exe
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\bin\Debug\netcoreapp3.1\Ej 2 pag 110.deps.json
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\bin\Debug\netcoreapp3.1\Ej 2 pag 110.runtimeconfig.json
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\bin\Debug\netcoreapp3.1\Ej 2 pag 110.runtimeconfig.dev.json
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\bin\Debug\netcoreapp3.1\Ej 2 pag 110.dll
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\bin\Debug\netcoreapp3.1\Ej 2 pag 110.pdb
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\obj\Debug\netcoreapp3.1\Ej 2 pag 110.AssemblyInfoInputs.cache
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\obj\Debug\netcoreapp3.1\Ej 2 pag 110.AssemblyInfo.cs
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\obj\Debug\netcoreapp3.1\Ej 2 pag 110.dll
+C:\Users\Tiffany\source\repos\Ej 2 pag 110\Ej 2 pag 110\obj\Debug\netcoreapp3.1\Ej 2 pag 110.pdb
